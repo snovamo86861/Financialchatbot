@@ -1,5 +1,11 @@
 # Financial services chat bot
 
+***Financial services chatbots are highly-efficient, self-sufficient virtual employees.***
+
+
+
+
+
 
 **Team Members:**
 - Raymond Yip
@@ -7,22 +13,29 @@
 - Sandra Nova
 - Keron Edwards 
 
+
+**Product:**
+
+- Chat Stocky to Me - Chat bot
+
+
+**Enhancing user experience**
+
+At Chat Stocky to Me, we want to bring people closer to financial services with an interactive and fun experience. Through an intelligent and human-like conversation, our smart bot offers a more intuitive and efficient customer journey increasing client’s conversion rate.
+
+
 **Questions**
 
  How bots transform the financial industry?
 
 
-Financial institutions are optimizing themselves for the new generation of tech-savvy users, and financial services chatbots are emerging as the new face of their customer service. 
+Financial institutions are optimizing themselves for the new generation of tech-savvy users, and financial services chatbots are emerging as the new face in the industry in the way it can help people  to make the right financial decisions in their portafolio and guide them when the algorithm detects change. 
 
 
-***Financial services chatbots are highly-efficient, self-sufficient virtual employees***
+**Core message:**
 
-The constraints of business hours and working days apply to a bank’s physical employees, but not to their virtual counterparts. Chatbots remain functional 24/7, and once set up, they need no human intervention to perform the tasks they’ve been assigned.
+- Offer the ability to add and compare stocks in a effortless way for everyone.
 
-
-
-
-- Core message:  Offer the ability to add and compare stocks in a effortless way for everyone.
 
 
 
@@ -46,8 +59,16 @@ Algorithmic trading bot using machine learning with different signals.
 
 **Methodology:**
 
- Our Financial  chatbot is created by  using Amazon Lex. The bot is programmed to offer accurate and datailed information on how to diversify their financial portafolio.
+Algorithmic trading bot using machine learning with 
+different signals.
 
+
+
+
+
+
+       
+       Chat Stocky to Me  is programmed to offer accurate and datailed information on how to diversify their financial portafolio.
 
 
        -  The bot should do the following:
@@ -69,5 +90,17 @@ Algorithmic trading bot using machine learning with different signals.
        8. Use NLP to analyse stock sentiment as input for ML to see if it affects stock.
 
  
+
+**Future Improvements for Chat Stocky to Me**
+
+- ***Stronger Signals:***
+Have more sentiment input from more than one media source and more real time data like Twitter.
+
+- ***Customization:***
+Give more ability to add and compare more stocks and weights of the portfolio. Diversify the user’s investment.
+
+-  ***More Models:***
+Instead of doing just a Random Forest of Machine learning. Give it the ability to select a stronger model to compare to.
+
 
 
