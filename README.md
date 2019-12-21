@@ -4,7 +4,7 @@
 
 
 
-
+![Image](https://lh3.googleusercontent.com/KpxDJ_gbIvKnOL65MPzcuMg6vDTsL_QyEBd2ef89cuIEG-yLmOlzp3HnLTHLWJHVDqcCXY-7Y7-4iT0n5PfwOw=w816-h459)
 
 
 **Team Members:**
@@ -17,6 +17,25 @@
 **Product:**
 
 - Chat Stocky to Me - Chat bot
+
+![Image](https://analyticsindiamag.com/wp-content/uploads/2017/02/bot-questions.jpg)
+
+
+**Project Description:**
+
+
+Algorithmic trading bot using machine learning with different signals. 
+
+
+**Data Source:**
+
+
+- Yahoo finance
+- News API (1,000 calls per day)
+- Stock News API
+- Google News
+- Bloomberg API (Free to some extent)
+- New York Times API (1,000 calls per day)
 
 
 **Enhancing user experience**
@@ -36,25 +55,10 @@ Financial institutions are optimizing themselves for the new generation of tech-
 
 - Offer the ability to add and compare stocks in a effortless way for everyone.
 
+![image](https://thetokenist.io/wp-content/uploads/2019/11/stock-market.jpg)
 
 
 
-
-**Project Description:**
-
-
-Algorithmic trading bot using machine learning with different signals. 
-
-
-**Data Source:**
-
-
-- Yahoo finance
-- News API (1,000 calls per day)
-- Stock News API
-- Google News
-- Bloomberg API (Free to some extent)
-- New York Times API (1,000 calls per day)
 
 
 **Methodology:**
@@ -89,9 +93,12 @@ different signals.
        
        8. Use NLP to analyse stock sentiment as input for ML to see if it affects stock.
 
- 
+
+
 
 **Future Improvements for Chat Stocky to Me**
+
+![Imagen](https://fsmedia.imgix.net/43/57/de/4e/20fb/4b71/9c83/5d7230e1d6db/lasers.jpeg?rect=0%2C0%2C5000%2C2502&auto=format%2Ccompress&dpr=2&w=650)
 
 - ***Stronger Signals:***
 Have more sentiment input from more than one media source and more real time data like Twitter.
